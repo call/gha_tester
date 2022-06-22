@@ -6,4 +6,4 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: Determine workflow conclusion
-        uses: call/workflow-conclusions-action
+        uses: call/workflow-conclusions-action@main
